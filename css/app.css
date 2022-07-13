@@ -1,6 +1,9 @@
 .header_top{
     height: 40px;
 }
+.header_top img{
+    width: 80px;
+}
 .header_bot{
     height: 70px;
 }
