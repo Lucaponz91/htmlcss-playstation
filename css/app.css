@@ -39,3 +39,37 @@
 .hero_card img{
     border-radius: 20px;
 }
+/* SECTION PS5 */
+.ps5{
+    margin-top: 100px;
+}
+.ps5 h2{
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+.ps5 h6{
+    color: #157DD1;
+    font-weight: 600;
+}
+.ps5 p{
+    font-size: 1.25rem;
+}
+.ps5_img{
+    max-width: 600px;
+    height: 100%;
+    width: 100%;
+}
+.content_detail{
+    margin-top: 8rem;
+}
+.content_detail_text a{
+    color: white;
+    background-color: #2C64E6;
+    border-radius: 25px;
+}
+@media screen and (min-width:743px){
+    .img_accessories{
+        width: 20%;
+    }
+    
+}
