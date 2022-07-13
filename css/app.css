@@ -1,3 +1,6 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
 .header_top{
     height: 40px;
 }
@@ -6,4 +9,28 @@
 }
 .header_bot{
     height: 70px;
+}
+#navbarDropdown{
+    color: black;
+}
+/* HERO */
+.hero_top{
+    height: 625px;
+    background-image: url(./../img/jumbo-bg.png);
+    background-position: center;
+    background-size: cover;
+}
+.hero_top img{
+    width: 280px;
+}
+.hero_info h2{
+    padding-top: 35px;
+    padding-bottom: 35px;
+    font-weight: 600;
+}
+.hero_info a{
+    background-color: #CD3D0F;
+    border-radius: 25px;
+    color: white;
+    
 }
