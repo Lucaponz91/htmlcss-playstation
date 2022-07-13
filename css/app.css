@@ -32,5 +32,10 @@
     background-color: #CD3D0F;
     border-radius: 25px;
     color: white;
-    
+}
+.hero_card{
+    border: none;
+}
+.hero_card img{
+    border-radius: 20px;
 }
