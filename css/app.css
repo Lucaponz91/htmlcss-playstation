@@ -102,4 +102,28 @@
     width: 100%;
     transition: 0.25s;
 }
+/* NEW RELEASES */
+.new_releases_top{
+    height: 625px;
+    background-image: url(./../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.new_releases_top img {
+    width: 280px;
+}
+.new_releases_bot{
+    background-color: #1F1F1F;
+}
+.new_releases_card{
+    border: none;
+    background-color: #1F1F1F;
+}
+.new_releases_card_img{
+    border-radius: 20px;
+    background-color: #1F1F1F;
+}
+.new_releases_card h5{
+    color: white;
+}
     
