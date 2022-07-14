@@ -193,4 +193,10 @@
     padding-bottom: 30px;
 }
 /* SECTION SOCIAL MEDIA */
-    
+.social h3{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.social_row{
+    margin-bottom: 70px;
+}
