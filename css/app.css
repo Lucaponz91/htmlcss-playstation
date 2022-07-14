@@ -175,5 +175,22 @@
     font-weight: 600;
 }
 /* SECTION PLAYSTATION NOW */
-
+.psnow{
+    background-color: #161C3B;
+}
+.psnow_row_left a{
+    color: black;
+    background-color: #D9DADC;
+    border-radius: 20px;
+    font-weight: 600;
+}
+.psnow_row_left img{
+    width: 345px;
+}
+.psnow p{
+    font-weight: 600;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+/* SECTION SOCIAL MEDIA */
     
