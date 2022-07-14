@@ -102,7 +102,7 @@
     width: 100%;
     transition: 0.25s;
 }
-/* NEW RELEASES */
+/*  SECTION NEW RELEASES */
 .new_releases_top{
     height: 625px;
     background-image: url(./../img/it-takes-two-hero-banner-desktop.jpg);
@@ -126,4 +126,23 @@
 .new_releases_card h5{
     color: white;
 }
+/* SECTION EXPLORE */
+.explore{
+    margin-top: 70px;
+}
+.explore h2{
+    font-weight: 600;
+}
+.explore_card a{
+    background-color: #2D64E6;
+    margin-top: 20px;
+}
+.explore_card{
+    margin-bottom: 70px;
+}
+.explore_card p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+/* SECTION PLAYSTATION PLUS */
     
