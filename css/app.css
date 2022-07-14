@@ -166,4 +166,14 @@
     max-height: 430px;
 }
 /* SECTION PLAYSTATIONSTORE */
+.pstore_text{
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+.pstore_text h2{
+    margin-bottom: 37px;
+    font-weight: 600;
+}
+/* SECTION PLAYSTATION NOW */
+
     
