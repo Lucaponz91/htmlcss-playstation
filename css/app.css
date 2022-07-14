@@ -200,3 +200,22 @@
 .social_row{
     margin-bottom: 70px;
 }
+/* FOOTER */
+footer{
+    background-color: #00439C;
+    padding-top: 70px;
+}
+#lang_globe{
+    width: 18px;
+}
+#play_logo{
+    filter:  brightness(0) invert(1);
+    width: 100px;
+}
+.footer_link a{
+    color: white;
+    text-decoration: none;
+}
+#sie_logo{
+    width: 140px;
+}
