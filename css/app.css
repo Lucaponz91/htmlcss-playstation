@@ -145,4 +145,25 @@
     margin-bottom: 20px;
 }
 /* SECTION PLAYSTATION PLUS */
+.psplus{
+    background-color: #BEBCBB;
+}
+.psplus_row_left img{
+    width: 345px;
+}
+.psplus_row_left p{
+    font-weight: 600;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.psplus_row_left a{
+    color: #2D64E6;
+    background-color: #D9DADC;
+    border-radius: 20px;
+    font-weight: 600;  
+}
+.psplus_row_right img{
+    max-height: 430px;
+}
+/* SECTION PLAYSTATIONSTORE */
     
